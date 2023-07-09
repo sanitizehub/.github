@@ -1,2 +1,2 @@
 # Sanitize Hub LLC
-## Bringing software to people
+Bringing software to people
